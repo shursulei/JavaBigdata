@@ -14,6 +14,9 @@
         <module>shursuleispark</module>
         <module>shursuleijavaee</module>
         <module>shursuleiakka</module>
+        <module>biplatform</module>
+        <module>shursuleiscala</module>
+        <module>scalalearning</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
