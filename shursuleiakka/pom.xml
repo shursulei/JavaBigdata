@@ -11,6 +11,7 @@
     <properties>
         <akka.version>2.6.10</akka.version>
         <scala.binary.version>2.12</scala.binary.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <artifactId>shursuleiakka</artifactId>
     <dependencies>
@@ -125,6 +126,23 @@
             <groupId>com.typesafe.akka</groupId>
             <artifactId>akka-stream-typed_${scala.binary.version}</artifactId>
             <version>${akka.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-nop -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>1.7.30</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.typesafe.akka</groupId>
+            <artifactId>akka-serialization-jackson_${scala.binary.version}</artifactId>
+            <version>${akka.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.2.3</version>
         </dependency>
     </dependencies>
     <build>

@@ -15,6 +15,11 @@ public class HelloWorldBot extends AbstractBehavior<HelloWorld.Greeted> {
    private final int max;
    private int greetingCounter;
 
+    /**
+     * 构造器,最大连接数
+     * @param context
+     * @param max
+     */
    private HelloWorldBot(ActorContext<HelloWorld.Greeted> context, int max) {
        super(context);
        this.max = max;

@@ -35,7 +35,7 @@ public class HelloWorldMain extends AbstractBehavior<HelloWorldMain.SayHello> {
 
     private Behavior<SayHello> onStart(SayHello command) {
         ActorRef<HelloWorld.Greeted> replyTo =
-                getContext().spawn(HelloWorldBot.create(6), command.name);
+                getContext().spawn(HelloWorldBot.create(3), command.name);
         greeter.tell(new HelloWorld.Greet(command.name, replyTo));
         return this;
     }

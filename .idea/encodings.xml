@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/biplatform" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scalalearning" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shursuleiakka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shursuleies" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shursuleiflink" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shursuleiflink/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shursuleiflink/src/main/resources" charset="UTF-8" />
@@ -12,10 +13,11 @@
     <file url="file://$PROJECT_DIR$/shursuleineo4j" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shursuleineo4j/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shursuleineo4j/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shursuleiscala" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shursuleiscala/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/shursuleiscala/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shursuleisasworkspace" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shursuleispark" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shursuleispark/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shursuleispring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shursuleispringcloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shursuleispringldap" charset="UTF-8" />
   </component>
 </project>

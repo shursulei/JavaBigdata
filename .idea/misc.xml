@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/shursuleiscala/pom.xml" />
+        <option value="$PROJECT_DIR$/shursuleispringcloud/pom.xml" />
       </set>
     </option>
   </component>

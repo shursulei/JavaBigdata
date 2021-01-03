@@ -9,14 +9,19 @@
         <module name="biplatform" />
         <module name="scalalearning" />
         <module name="shursuleiakka" />
+        <module name="shursuleies" />
         <module name="shursuleiflink" />
         <module name="shursuleijavaee" />
         <module name="shursuleineo4j" />
+        <module name="shursuleisasworkspace" />
         <module name="shursuleispark" />
+        <module name="shursuleispring" />
+        <module name="shursuleispringldap" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="shursuleiscala" target="1.8" />
+      <module name="shursuleispringcloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

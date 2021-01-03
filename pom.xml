@@ -17,6 +17,11 @@
         <module>biplatform</module>
         <module>shursuleiscala</module>
         <module>scalalearning</module>
+        <module>shursuleispring</module>
+        <module>shursuleispringldap</module>
+        <module>shursuleisasworkspace</module>
+        <module>shursuleispringcloud</module>
+        <module>shursuleies</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
